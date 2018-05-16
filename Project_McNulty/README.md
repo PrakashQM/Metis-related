@@ -1,4 +1,3 @@
-# Project__McNulty
 # Project McNulty :
 
 Project goal is to apply supervised learning to a classification problems.  
